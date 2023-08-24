@@ -11,7 +11,6 @@ Encrypt and decrypt messages using the Vigenère cipher method. This React appli
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
