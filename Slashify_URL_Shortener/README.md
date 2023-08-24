@@ -2,6 +2,8 @@
 
 Slashify is a simple web application that allows you to shorten long URLs into compact and shareable links. It utilizes the RapidAPI service to generate shortened URLs quickly and efficiently.
 
+https://slashify.netlify.app/
+
 
 ## Table of Contents
 
@@ -13,7 +15,7 @@ Slashify is a simple web application that allows you to shorten long URLs into c
 - [Installation](#installation)
 - [API Key](#api-key)
 - [Contributing](#contributing)
-- [License](#license)
+
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
