@@ -43,7 +43,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
    
-       https://github.com/Pranshu-Ghub25/Mini_Projects/tree/main/CryptoWhishper
+       https://github.com/Pranshu-Ghub25/Mini_Projects/tree/main/CryptoWhishper/crypto-whisper
 
 2.Navigate to the project directory:
 
