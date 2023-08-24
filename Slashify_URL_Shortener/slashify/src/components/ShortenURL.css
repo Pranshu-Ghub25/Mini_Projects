@@ -1,0 +1,108 @@
+/* ShortenURL.css */
+
+.shorten-url-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+    transition: border-color 0.3s;
+  }
+  
+  input:focus {
+    border-color: #007bff;
+  }
+  
+  .input-container button {
+    background-color: #ccc;
+    color: #212121; /* Changed text color to white for better visibility */
+    border: none;
+    border-radius: 6px;
+    padding: 10px 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .input-container button:hover {
+    background-color: #f50057;
+    color:#ffffff;
+  }
+  
+  .result-container {
+    margin-top: 20px;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result-container a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .result-container a:hover {
+    color: #0056b3;
+  }
+  
+  .shortened-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .shortened-link a {
+    color: #007bff;
+    text-decoration: none;
+    flex: 1;
+    transition: color 0.3s;
+  }
+  
+  .shortened-link button {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .shortened-link button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Responsive Styles for Mobile */
+  @media screen and (max-width: 768px) {
+    .input-container {
+      align-items: center;
+    }
+    
+    .shortened-link {
+      align-items: center;
+    }
+  }
+  
