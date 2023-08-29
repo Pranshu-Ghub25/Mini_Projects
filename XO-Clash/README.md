@@ -3,9 +3,11 @@
 A simple Tic Tac Toe game built using React. Play the classic game with a modern twist!
 
 https://xo-clash-a-tictactoe-game.netlify.app/ 
+![xo-clash-ss](https://github.com/Pranshu-Ghub25/Mini_Projects/assets/109868887/d35eae69-cf59-41c3-a40f-32dd025b554b)
 
 
-![Screenshot](xo-clash-ss.png)
+
+
 
 ## Features
 
