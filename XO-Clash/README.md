@@ -16,7 +16,7 @@ https://xo-clash-a-tictactoe-game.netlify.app/
 
 ## Getting Started
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/Pranshu-Ghub25/Mini_Projects/tree/main/XO-Clash/tic-tac-toe`
 2. Navigate to the project directory: `cd tic-tac-toe`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm start`
